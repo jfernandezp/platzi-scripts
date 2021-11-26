@@ -6,3 +6,6 @@ Este es un ejemplo de jenkins
 
 
 Ejecuta job en jenkins de forma automatica
+
+
+Ejecutar pipeline.
